@@ -41,11 +41,3 @@ Me interesa crear interfaces web, aprender nuevas tecnologías y convertir ideas
 - [ ] Aprender buenas prácticas de programación.
 - [ ] Mejorar la documentación de mis repositorios.
 
-
-<div align="center">
-
-**`GAME OVER? NO. JUST ANOTHER RETRY.`** 👾
-
-*Cada proyecto es una nueva oportunidad para subir de nivel.*
-
-</div>
