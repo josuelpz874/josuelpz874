@@ -13,10 +13,10 @@
 ## PROFILE
 
 ```text
-PLAYER : JOSUE
-CLASS  : WEB DEVELOPER
-LEVEL  : LEARNING
-STATUS : BUILDING NEW PROJECTS...
+JOSUE
+WEB DEVELOPER
+LEARNING
+BUILDING NEW PROJECTS...
 ```
 
 ¡Hola! Soy Josue. Estoy aprendiendo desarrollo web y mejorando mis habilidades a través de proyectos prácticos.
